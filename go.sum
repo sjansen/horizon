@@ -1,0 +1,14 @@
+github.com/arran4/golang-ical v0.0.0-20210113030058-c451667b5431 h1:yoSsjewrAO96ER9zBZhJKNoT5KlAVXhEQZe+zzwKxlA=
+github.com/arran4/golang-ical v0.0.0-20210113030058-c451667b5431/go.mod h1:OvKAaLVUQD5P9ZCgnI5qbpkX8fil6yAnorhTaVZnVWk=
+github.com/arran4/golang-ical v0.0.0-20210601225245-48fd351b08e7 h1:oOgavmDMGCnNtwZwNoXuK3jCcpF3I96Do9/5qPeSCr8=
+github.com/arran4/golang-ical v0.0.0-20210601225245-48fd351b08e7/go.mod h1:3Fo6aCavD4wY7KNzi6z9D6e20a6FdqD/tIaHlU7GnMI=
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
+github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
+github.com/teambition/rrule-go v1.6.2 h1:keZiiijltBxYUuhQaySAEGyIFR0UOkAd7i+u6FM5/+I=
+github.com/teambition/rrule-go v1.6.2/go.mod h1:mBJ1Ht5uboJ6jexKdNUJg2NcwP8uUMNvStWXlJD3MvU=
+github.com/teambition/rrule-go v1.7.0 h1:Fq775JvWP8R6RKBtSoK1285SjLTftwl4PX88lqoGCxQ=
+github.com/teambition/rrule-go v1.7.0/go.mod h1:mBJ1Ht5uboJ6jexKdNUJg2NcwP8uUMNvStWXlJD3MvU=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
