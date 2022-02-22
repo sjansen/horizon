@@ -1,8 +1,10 @@
 module github.com/sjansen/horizon
 
-go 1.16
+go 1.18
 
 require (
-	github.com/arran4/golang-ical v0.0.0-20210601225245-48fd351b08e7 // indirect
-	github.com/teambition/rrule-go v1.7.0 // indirect
+	github.com/arran4/golang-ical v0.0.0-20210807024147-770fa87aff1d
+	github.com/teambition/rrule-go v1.7.1
 )
+
+require github.com/tidwall/btree v1.1.1-0.20220220161908-7bec22d8e3fa // indirect
