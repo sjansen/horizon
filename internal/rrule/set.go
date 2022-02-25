@@ -20,12 +20,12 @@ func NewSet(r *RRule) *Set {
 }
 
 func (s *Set) ExDate(dt time.Time) *Set {
-	s.Set.ExDate(toDate(dt))
+	s.Set.ExDate(dt)
 	return s
 }
 
 func (s *Set) RDate(dt time.Time) *Set {
-	s.Set.RDate(toDate(dt))
+	s.Set.RDate(dt)
 	return s
 }
 

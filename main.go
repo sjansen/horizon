@@ -98,7 +98,8 @@ func printJSON(b []byte) {
 }
 
 func printRotation(r *rotation.Rotation) {
-	for _, turn := range r.All() {
+	turns := r.All()
+	for _, turn := range turns {
 		fmt.Print(turn.Time, " ")
 		for _, item := range turn.List {
 			fmt.Print(" ", item)
